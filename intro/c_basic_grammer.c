@@ -18,7 +18,7 @@
 
 int main(void)
 {
-    /* code */
+     /* code */
     printf("Hello");
     return 0;
 }
