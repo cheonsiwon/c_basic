@@ -58,3 +58,4 @@ int main(void) {
     printf("신장 %dcm, 몸무게 %dkg으로 \n", height, weight);
     printf("당신의 BMI지수는 %.2lf로 %s입니다." ,bmi_value, bmi_degree);
 }
+//네이밍룰, 변수의 종류 공부하기
